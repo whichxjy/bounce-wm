@@ -6,6 +6,8 @@ Usage:
 
 - `Ctrl + E`: let the window go
 
+- `Ctrl + C`: stop the window when it's moving
+
 - `Ctrl + Q`: exit the window manager
 
 ![demo](demo.gif)
