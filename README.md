@@ -4,8 +4,8 @@ My solution to the challenge ["Write a bouncy window manager"](https://jvns.ca/b
 
 Usage:
 
-    - `Ctrl + E`: let the window go
+- `Ctrl + E`: let the window go
 
-    - `Ctrl + Q`: exit the window manager
+- `Ctrl + Q`: exit the window manager
 
 ![demo](demo.gif)
