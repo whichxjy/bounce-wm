@@ -1,8 +1,17 @@
 ## Bouncy Window Manager
 
-My solution to the challenge ["Write a bouncy window manager"](https://jvns.ca/blog/2019/11/25/challenge--make-a-bouncy-window-manager/).
+My solution to the challenge ["write a bouncy window manager"](https://jvns.ca/blog/2019/11/25/challenge--make-a-bouncy-window-manager/).
 
-Usage:
+See also [solutions to the tiny window manager challenge](https://jvns.ca/blog/2019/12/03/solutions-to-the-tiny-window-manager-challenge/).
+
+## Usage
+
+``` Makefile
+# compile the code
+make
+# run the program
+./bounce-wm
+```
 
 - `Ctrl + E`: let the window go
 
